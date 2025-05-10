@@ -1,0 +1,11 @@
+# SSH и ключи
+.shh/
+id_rsa*
+id_ed25519*
+*.pem
+
+# Системные файлы
+.DS_Store
+.idea/
+__pycache__/
+*.log
