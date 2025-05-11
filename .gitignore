@@ -1,8 +1,14 @@
+
 # SSH и ключи
 .shh/
 id_rsa*
 id_ed25519*
 *.pem
+# SSH keys
+*.rsa
+*.pem
+*.key
+.shh/
 
 # Системные файлы
 .DS_Store
